@@ -14,7 +14,7 @@ https://www.macrozheng.com/admin/index.html#/login
 
 ### Vulnerability causes
 
-![1734921589015](.\img\1734921589015.png)
+![1734921589015](./img/1734921589015.png)
 
 The project imports users by default and the test user is a super administrator and has a weak password.![1734921638087](.\img\1734921638087.png)
 
