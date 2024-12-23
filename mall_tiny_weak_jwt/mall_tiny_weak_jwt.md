@@ -14,25 +14,25 @@ https://www.macrozheng.com/admin/index.html#/login
 
 ### Vulnerability causes
 
-![1734920586332](.\img\1734920586332.png)
+![1734920586332](./img/1734920586332.png)
 
-![1734920784085](.\img\1734920784085.png)
+![1734920784085](./img/1734920784085.png)
 
-You can see that the signing key used here is hardcoded, and further, the token content contains the username.![1734920861400](C:\Users\10355\AppData\Local\Temp\1734920861400.png)
+You can see that the signing key used here is hardcoded, and further, the token content contains the username.![](./img/1734923508252.png)
 
-![1734920961239](.\img\1734920961239.png)
+![1734920961239](./img/1734920961239.png)
 
-![1734920995856](.\img\1734920995856.png)
+![1734920995856](./img/1734920995856.png)
 
 This username is subsequently used for authentication, so it is possible to forge the token of any user in the system.
 
 ### Vulnerability reproduce & Impact
 
-![1734919261587](.\img\1734919261587.png)
+![1734919261587](./img/1734919261587.png)
 
-We can write the above code to fake the token, here we fake the token of the admin user, which is a super user.![1734919294238](.\img\1734919294238.png)
+We can write the above code to fake the token, here we fake the token of the admin user, which is a super user.![1734919294238](./img/1734919294238.png)
 
-We managed to get the token.![1734919359615](.\img\1734919359615.png)
+We managed to get the token.![1734919359615](./img/1734919359615.png)
 
 Use this token to get the current user information, you can see that we are “超级管理员”, which stands for super user.
 
