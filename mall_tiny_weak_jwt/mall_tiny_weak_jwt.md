@@ -4,7 +4,7 @@ The mall_tiny project is a small e-commerce platform that uses restful api and i
 
 ### Version & Reference
 
-1.0.1
+mall-tiny project 1.0.1 
 
 https://github.com/macrozheng/mall-tiny
 

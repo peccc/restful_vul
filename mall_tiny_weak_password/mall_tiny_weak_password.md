@@ -4,7 +4,7 @@ The mall-tiny project is a small e-commerce platform with 1.9k stars on GitHub. 
 
 ### Version & Reference
 
-1.0.1
+mall-tiny project 1.0.1
 
 https://github.com/macrozheng/mall-tiny
 
