@@ -1,6 +1,6 @@
 ## Elevation of privilege vulnerability in the ruoyi project
 
-The ruoyi project is a 6.6k GitHub project that has an elevation of privilege vulnerability.Users with system monitoring privileges can see the session id of admin, and this system recognizes users by their session ids, so users with system monitoring privileges can impersonate the session id of admin to achieve elevated privileges.
+The ruoyi project is a 6.6k star GitHub project also open-sourced on gitee, which has an elevation of privilege vulnerability. Users with system monitoring privileges can see the session id of admin, and this system recognizes users by their session ids, so users with system monitoring privileges can impersonate the session id of admin to achieve elevated privileges.
 
 ### Version & Reference
 
