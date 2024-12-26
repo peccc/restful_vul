@@ -6,11 +6,11 @@ The ruoyi project is a 6.6k GitHub project that has an elevation of privilege vu
 
 ruoyi project 4.8.0
 
-https://ruoyi.vip/
+https://gitee.com/y_project/RuoYi
 
 https://github.com/yangzongzhuan/RuoYi
 
-https://gitee.com/y_project/RuoYi
+https://ruoyi.vip/
 
 ### Vulnerability causes
 
