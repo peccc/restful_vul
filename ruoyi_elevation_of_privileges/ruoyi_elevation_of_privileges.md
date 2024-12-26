@@ -10,6 +10,8 @@ https://ruoyi.vip/
 
 https://github.com/yangzongzhuan/RuoYi
 
+https://gitee.com/y_project/RuoYi
+
 ### Vulnerability causes
 
 ![1735209701386](./img/1735209701386.png)
