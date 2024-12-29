@@ -24,7 +24,7 @@ The interface is to change user information and also make changes to the user's 
 
 ![1735477019259](./img/1735477019259.png)
 
-There are two roles in the system the first role has more privileges than the second role, create a user with the second role privileges.
+There are two roles in the system and the first role has more privileges than the second role, create a user with the second role privileges.
 
 ![1735477151773](./img/1735477151773.png)
 
@@ -34,6 +34,6 @@ Assign the first role, a higher privilege role, to this user. Check and assign.
 
 ![1735477374444](./img/1735477374444.png)
 
-A higher privileged role is successfully assigned to the user, and other accessible interfaces can be seen in the left directory.
+A higher privileged role is successfully assigned to the user, and other more accessible interfaces can be seen in the left directory.
 
 This vulnerability requires that a higher privileged role exists on the system and that the attacker has user administrative privileges. The impact is that elevation of privilege is possible.
