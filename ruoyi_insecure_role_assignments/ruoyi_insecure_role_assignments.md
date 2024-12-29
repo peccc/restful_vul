@@ -1,4 +1,4 @@
-## Ruoyi project sqli injection error messages leak sensitive user information
+## The ruoyi project has insecure role assignments
 
 The ruoyi project, a GitHub project with 6.6k stars and also open-sourced on gitee, has a vulnerability that could allow a user in a low-privilege role to give themselves a high-privilege role, which could lead to elevation of privilege.
 
