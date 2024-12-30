@@ -30,7 +30,7 @@ There are two roles in the system and the first role has more privileges than th
 
 ![1735477254165](./img/1735477254165.png)
 
-Assign the first role, a higher privilege role, to this user. Check and assign.
+This user assigns himself the first role, which is the role with higher privileges. Select and assign.
 
 ![1735477374444](./img/1735477374444.png)
 
