@@ -1,4 +1,4 @@
-## The mall-tiny administrator account has a weak password and can be enumerated.
+## mall-tiny Null pointer dereference exists.
 
 The mall-tiny project is a small e-commerce platform with 1.9k stars on GitHub. If an attacker sends null data through its resource creation interface, null pointer dereferencing occurs for all subsequent operations that require authentication, which triggers a denial-of-service attack and service restart failure.
 
