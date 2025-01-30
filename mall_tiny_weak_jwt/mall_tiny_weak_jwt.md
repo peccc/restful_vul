@@ -1,6 +1,6 @@
 ## Jwt forgery vulnerability in mall-tiny project
 
-The mall_tiny project is a small e-commerce platform that uses restful api and implements authentication and permission management based on jwt. However jwt's signing keys are hardcoded and do not change. User information is explicitly written into jwt and used for subsequent privilege management, so it is possible to forge the jwt of any user in the system to achieve authentication bypass.
+The mall-tiny project is a small e-commerce platform that uses restful api and implements authentication and permission management based on jwt. However jwt's signing keys are hardcoded and do not change. User information is explicitly written into jwt and used for subsequent privilege management, so it is possible to forge the jwt of any user in the system to achieve authentication bypass.
 
 ### Version & Reference
 
